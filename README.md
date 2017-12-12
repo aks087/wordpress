@@ -1,0 +1,2 @@
+# wordpress
+lates-wordpress-file
